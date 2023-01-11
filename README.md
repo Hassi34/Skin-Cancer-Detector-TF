@@ -1,19 +1,16 @@
 <p align="center">
     <b>
-        <h1 align="center">🧑🏻‍🏭 Warehouse Apparel Detector 👨🏻‍🔧</h1>
+        <h1 align="center">Skin Cancer Detector</h1>
     </b>
 </p>
-<!-- <p align="center">
-    <em>A Vision AI based object detection web app to detect the warehouse apparel present in the image</em>
-</p> -->
 <p align="center">
-<a href="https://github.com/Hassi34/Warehouse-Apparel-Detector-YOLOv5">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&c=g&size=18&duration=3000&pause=6000&multiline=True&center=true&width=800&height=40&lines=A+Vision+AI+based+object+detection+web+app+to+detect+the+warehouse+apparel+present+in+the+image;" alt="Typing SVG" />
+<a href="https://github.com/Hassi34/Skin-Cancer-Detector-TF">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&c=g&size=18&duration=3000&pause=6000&multiline=True&center=true&width=800&height=40&lines=A+Vision+AI+based+project+to+detect+and+classify+the+potential+risk+of+having+the+Skin+Cancer;" alt="Typing SVG" />
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Hassi34/Warehouse-Apparel-Detector-YOLOv5">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=1000&multiline=False&color=10D736FF&center=true&width=400&height=40&lines=AI+%7C+Computer+Vision+%7C+Web+App%7C+REST+API;Python+%7C+3.7+%7C+3.8+%7C+3.9+%7C+3.10;YOLOv5+%7C+Flask" alt="Typing SVG" />
+<a href="https://github.com/Hassi34/Skin-Cancer-Detector-TF">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=1000&multiline=False&color=10D736FF&center=true&width=400&height=40&lines=AI+%7C+Computer+Vision+%7C+Web+App%7C+REST+API;Python+%7C+3.7+%7C+3.8+%7C+3.9+%7C+3.10;TensorFlow+%7C+FastAPI+%7C+Docker+%7C+Streamlit;" alt="Typing SVG" />
 </a>
 </p>
 
@@ -21,17 +18,17 @@
     <a href="https://www.python.org/downloads/">
         <img alt="License" src="https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10-g.svg">
     </a>
-    <a href="https://github.com/Hassi34/Warehouse-Apparel-Detector-YOLOv5">
-        <img alt="Last Commit" src="https://img.shields.io/github/last-commit/hassi34/Warehouse-Apparel-Detector-YOLOv5/main?color=g">
+    <a href="https://github.com/Hassi34/Skin-Cancer-Detector-TF">
+        <img alt="Last Commit" src="https://img.shields.io/github/last-commit/hassi34/Skin-Cancer-Detector-TF/main?color=g">
     </a>
-    <a href="https://github.com/Hassi34/Warehouse-Apparel-Detector-YOLOv5">
-        <img alt="Code Size" src="https://img.shields.io/github/languages/code-size/hassi34/Warehouse-Apparel-Detector-YOLOv5?color=g">
+    <a href="https://github.com/Hassi34/Skin-Cancer-Detector-TF">
+        <img alt="Code Size" src="https://img.shields.io/github/languages/code-size/hassi34/Skin-Cancer-Detector-TF?color=g">
     </a>
-    <a href="https://github.com/Hassi34/Warehouse-Apparel-Detector-YOLOv5">
-        <img alt="Repo Size" src="https://img.shields.io/github/repo-size/hassi34/Warehouse-Apparel-Detector-YOLOv5?color=g">
+    <a href="https://github.com/Hassi34/Skin-Cancer-Detector-TF">
+        <img alt="Repo Size" src="https://img.shields.io/github/repo-size/hassi34/Skin-Cancer-Detector-TF?color=g">
     </a>
-    <a href="https://github.com/Hassi34/Warehouse-Apparel-Detector-YOLOv5/blob/main/LICENSE">
-        <img alt="License" src="https://img.shields.io/github/license/hassi34/Warehouse-Apparel-Detector-YOLOv5?color=g">
+    <a href="https://github.com/Hassi34/Skin-Cancer-Detector-TF/blob/main/LICENSE">
+        <img alt="License" src="https://img.shields.io/github/license/hassi34/Skin-Cancer-Detector-TF?color=g">
     </a>
 </p>
 <p align="center">
@@ -40,7 +37,7 @@
 
 ## Overview
 This project contains the implementation of REST API and WEB APP empowered by Vision AI to detect and make the prediction for potential risk of skin cancer while provided with the image of skin.The model is trained using TensorFlow. The REST API services are being distributed through docker image. You can pull the image from [Docker Hub](https://hub.docker.com/r/hassi34/skincancer-detector).The image comes as the production ready with unit tests and standard algorithm implemented which can be used to expose the REST API to the web.<br>
-Following are the major contents to follow, you can jump to any section:
+**Following are the major contents to follow, you can jump to any section:**
 
 >   1. [Run Locally](#run-local)
 >   2. [Model Training](https://github.com/Hassi34/Skin-Cancer-Detector-TF/blob/main/SkinCancerModelTraining.ipynb)
