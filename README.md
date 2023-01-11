@@ -100,7 +100,7 @@ Check if the container is running:
 docker ps
 ```
 If the container is running, then the API services will be available on all the network interfaces<br>
-Type **``localhost``** in the brower and see if the get the success message from the API service.
+Type **``localhost``** in the brower and see if you get the success message from the API service.
 
 * Perform Unit Tests<a id='#unit-tests'></a><br>
 After when the API services are up and running, run the following command on the termial to perform the unit test:
@@ -108,7 +108,7 @@ After when the API services are up and running, run the following command on the
 docker exec -it <CONTAINER NAME OR ID> pytest
 ```
 * API documentation<a id='api-docs'></a><br>
-The automatic API documentation will be available at http://localhost
+The automatic API documentation will be available at http://localhost/docs
 
 ### Make an API Request<a id='request-api'></a>
 Use the following script as a reference to make a REST API request:
