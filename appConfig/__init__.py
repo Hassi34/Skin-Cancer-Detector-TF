@@ -20,6 +20,5 @@ FINAL_MODEL = os.path.join(ARTIFACTS, "model.h5")
 DEVICE = 'cpu'
 
 PORT = 80
-HOST = '0.0.0.0'
-DEBUG = True
+
 
