@@ -10,7 +10,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/Hassi34/Skin-Cancer-Detector-TF">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=1000&multiline=False&color=10D736FF&center=true&width=400&height=40&lines=AI+%7C+Computer+Vision+%7C+Web+App%7C+REST+API;Python+%7C+3.7+%7C+3.8+%7C+3.9+%7C+3.10;TensorFlow+%7C+FastAPI+%7C+Docker+%7C+Streamlit;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=1500&multiline=False&color=10D736FF&center=true&width=400&height=40&lines=AI+%7C+Computer+Vision+%7C+Web+App%7C+REST+API;Python+%7C+3.7+%7C+3.8+%7C+3.9+%7C+3.10;aiPilot+%7C+TensorFlow+%7C+FastAPI+%7C+Docker+%7C+Streamlit;" alt="Typing SVG" />
 </a>
 </p>
 

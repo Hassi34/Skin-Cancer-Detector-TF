@@ -18,7 +18,6 @@ ARTIFACTS = Path("artifacts")
 FINAL_MODEL = os.path.join(ARTIFACTS, "model.h5")
 
 DEVICE = 'cpu'
-
 PORT = 80
 
 
