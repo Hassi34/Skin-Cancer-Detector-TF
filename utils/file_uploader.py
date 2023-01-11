@@ -20,10 +20,10 @@ class FileOps:
             self.col1.image(file, width=350)
             self.save_uploadedfile(file)
             
-        except AttributeError:
-            pass 
         except:
-            st.error("Not a valid file")
+            pass
+        #    raise e
+        #    st.error("Not a valid file")
         #file.close()
 
     def save_uploadedfile(self,uploadedfile):

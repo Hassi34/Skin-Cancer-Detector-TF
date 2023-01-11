@@ -1,15 +1,11 @@
 name: skin-cancer-detector
 channels:
-  - conda-forge
   - pip
-  - defaults
 
 dependencies:
   - python=3.10
-  - anaconda
   - pip
+  - streamlit
   - pip:
-    - streamlit
     - aipilot
-  - conda-forge:
-    - protobuf
+  - protobuf
